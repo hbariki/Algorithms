@@ -1,0 +1,11 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Harshini",
+  "license": "ISC"
+}
